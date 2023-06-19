@@ -1,0 +1,4 @@
+- kan kaarten in verkeerde volgorde op elkaar leggen, afleggen van stapel naar afgelstapel werkt niet altijd. 
+- Gebruik modules niet goed beter opdelen
+- Grote complexe functies kan je beter opdelen bijvoorbeeld toCorrectFinalStack 
+- Probeer magische constanten weg te werken in je code
